@@ -22,7 +22,7 @@ PROJECTS
 
     This page is dedicated to the Ecuador national soccer team and their qualification to the 2022 World Cup in Qatar. It contains photos, embeded videos, and a form.
     
-    Car Insurance:
+    CAR INSURANCE SITE
 
     Written in C#, this project is an MVC web application that immitates a car insurance website. It takes user input and calculates a quote. The application also includes an admin page that allows employees to view the quotes that have been issued to specific users.
     
